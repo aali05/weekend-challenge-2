@@ -1,0 +1,14 @@
+html {
+  background-image: url('Images/calc-backgroundimage.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+  font-family: 'Merriweather', serif;
+}
+div {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  font-size: 3em;
+}
